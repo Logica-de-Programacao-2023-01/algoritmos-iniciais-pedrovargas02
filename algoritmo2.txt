@@ -6,5 +6,5 @@ Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatur
 4. resultado = temperatura * 1,8 + 32
 5. Então escreva o resultado 
 6. Senão Se tmeperatura estiver em Fahrenheit Então 
-7. resultado = 1,8 + 32/temperatura 
+7. resultado = (temperatura - 32)/1.8 
 8. Então escreva o resultado
