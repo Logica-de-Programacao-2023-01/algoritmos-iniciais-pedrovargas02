@@ -9,4 +9,4 @@ de 1 até aquele número.
 4. senão fatorial = 1 
 5. para um loop de 2 ate n faça: 
 5.1 fatorial = fatorial * 1
-6. fim-se
+6. fim
