@@ -4,10 +4,8 @@ que calcula o fatorial de um número,
 ou seja, o produto de todos os números inteiro
 de 1 até aquele número.
 
-1. Definir número a ser fatorado
-2. número a ser fatorado = n
-3. se n for igual a 0 ou 1, retorne a 1 
-4. senão fatorial = 1  
-5. para i de 2 ate n faça: 
-5.1 fatorial = fatorial * i
-6. fim
+1. leia x 
+2. var resultado = 1 
+3. para todo resultado entre 2 e x, faça : 
+4.	resultado = resultado * numero
+5. escreva resultado 
